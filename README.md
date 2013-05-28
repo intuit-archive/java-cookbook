@@ -6,7 +6,7 @@
 
 # Attributes
 
-node['java']['jdk_version'] - describes the Oracle JDK version
+node['java']['jdk_version'] - describes the Oracle JDK version, defaults to nil, i.e. latest in repo
 node['java']['java_home']   - describes the path to JAVA_HOME
 
 # Recipes

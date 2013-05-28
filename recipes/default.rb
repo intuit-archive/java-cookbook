@@ -20,7 +20,7 @@
 java_home = node['java']['java_home']
 
 package 'jdk' do
-  version "#{node['java']['jdk_version']}"
+  version node['java']['jdk_version']
 end
 
 ruby_block 'set-env-java-home' do

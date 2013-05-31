@@ -1,4 +1,5 @@
 ## head
+* Fixing emeril tagging issue
 
 ## 0.2.0 5/30/2013
 * Use emeril for tagging releases

@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/intuit/java-cookbook.png)](http://travis-ci.org/intuit/java-cookbook)
+
 # java cookbook
 
 # Requirements

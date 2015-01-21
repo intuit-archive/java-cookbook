@@ -1,5 +1,7 @@
 [![Build Status](https://secure.travis-ci.org/intuit/java-cookbook.png)](http://travis-ci.org/intuit/java-cookbook)
 
+**!!! This project has been deprecated.  We recommend you search the [Chef Supermarket ](https://supermarket.chef.io/) for a supported alternative !!!**
+
 # java cookbook
 
 # Requirements
